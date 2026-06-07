@@ -10,6 +10,6 @@ Este proyecto es un menú visual que actúa como intermediario para ejecutar **y
 - Descarga de video en MP4 (desde 720p hasta la máxima calidad disponible).
 - Incorporación automática de carátulas (`thumbnails`) y metadatos a los archivos.
 - Instalador automático de dependencias integrado mediante `winget`.
-- Los archivos se guardaran en la misma carpeta desde donde ejecutes el archivo.
+- Los archivos se guardaran en la misma carpeta desde donde ejecutes el `.bat`.
 
 ---
