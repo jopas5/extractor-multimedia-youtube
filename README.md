@@ -1,4 +1,4 @@
-# Extractor Multimedia Universal 🚀
+# Extractor Multimedia YouTube (Windows) 🚀
 
 Una herramienta interactiva en formato `.bat` diseñada para facilitar la descarga de audio y video de internet, eliminando la necesidad de escribir comandos complejos en la terminal.
 
@@ -12,4 +12,3 @@ Este proyecto es un menú visual que actúa como intermediario para ejecutar **y
 - Instalador automático de dependencias integrado mediante `winget`.
 
 ---
-**Dev Jopa** | *Power By Gemini AI 🤖*
